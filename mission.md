@@ -5,8 +5,8 @@ Create consistent, maintainable, and easy to use software.
 
 ## Ideals
 
-### Automation and Improvemnt
-We want to manual processes when possible, and automate consitent manual tasks.
+### Automation and Improvement
+We want to manual processes when possible, and automate manual tasks.
 
 * Testing
 * Building
