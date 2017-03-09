@@ -8,11 +8,11 @@ Create consistent, maintainable, and easy to use software.
 ### Automation and Improvement
 We want to manual processes when possible, and automate manual tasks.
 
-* Testing
 * Building
+* Deployment
 * Manual Processes
 * Monitoring
-* Deployment
+* Testing
 
 ### Collaboration
 * Development is a team effort and our efforts should reflect that. At least two developers will be included on a project to ensure quality and consistency.
