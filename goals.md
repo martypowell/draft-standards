@@ -12,7 +12,7 @@ NOTE: This document is used for collaboration purposes only.
 * [ ] List of Skils of current development staff
 
 ### Areas of Improvement
-* [ ] List of Skills of current development staff
+* [ ] List of Areas we can improve
 
 ## Agreements
 * [ ] Establish a working agreement
