@@ -8,3 +8,4 @@ Table of Contents
 * [Roles](roles.md)
 * [Standards](standards.md)
 * [SDLC](sdlc.md)
+* [Version Control](version-control.md)
