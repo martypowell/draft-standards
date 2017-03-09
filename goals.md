@@ -1,5 +1,7 @@
 # Goals
-The purpose of this document is to layout the current goals for development at Baltimore County
+The purpose of this document is to layout the current goals for development at Baltimore County.
+
+NOTE: This document is used for collaboration purposes only.
 
 ## TODO
 
