@@ -24,7 +24,7 @@ This is a general guideline of the tools we use to develop applications.
 * Latest Supported Version of IIS Supported by Baltimore County
 
 # Architecture
-TODO: 
+[Docs](architecture.md)
 
 # Code
 
