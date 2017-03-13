@@ -1,7 +1,7 @@
 # Mission and Ideals
 
 ## Mission Statement
-Create consistent, maintainable, and easy to use software.
+Create, maintain and support consistent, maintainable, and easy to use software.
 
 ## Ideals
 
