@@ -19,7 +19,9 @@ We want to manual processes when possible, and automate manual tasks.
 * Stakeholders are required to be involved as much as possible.
 
 ### Consistency
-PLEASE and THANK YOU
+* Similar look and feel to applications (code and interaces)
+* Create code snippets/libraries for similar code problems
+* Application design written and each layer documented clearly
 
 ### Independent Verification & Validation 
 * Code Review
@@ -28,8 +30,9 @@ PLEASE and THANK YOU
 
 ### Iterative Development
 * Deliver working software in small chunks
-* Embrace Change
+* Be flexible and adapt to changing requirements, embrace changes which will ultimately lead to better software
 * Deliver value asap
+* Continual feedback from the customer and internally between developers
 
 ### Innovation
 * Keep things up to date (software, servers, dbs...etc)
